@@ -3,7 +3,6 @@
 
 🍕 Pizza Ordering Application in C++ (OOP) 🍕
 
-🍕 Pizza Ordering Application in C++ (OOP) 🍕
 
 This C++ application is a simple yet efficient Pizza Ordering system built using Object-Oriented Programming (OOP) principles. It allows users to interactively place pizza orders, customize their pizzas, and receive a summary of their orders. The code is designed to be modular, making it easy to understand, maintain, and extend.
 
